@@ -1,0 +1,4 @@
+1. Shift all this to a new directory
+2. Make a static home page without design.
+3. Make Posts Page and About Us Page (still no design).
+4. Integrate with design.
