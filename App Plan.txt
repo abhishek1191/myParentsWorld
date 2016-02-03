@@ -2,3 +2,9 @@
 2. Make a static home page without design.
 3. Make Posts Page and About Us Page (still no design).
 4. Integrate with design.
+
+
+To check :
+
+1. Structure of web.js file
+2. How calling main.js works
